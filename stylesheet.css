@@ -1,0 +1,13 @@
+.table, th, td {
+  border: 1px solid black;
+}
+.div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 10px solid green;
+  padding: 40px;
+  margin: 20px;
+}
+.color {
+  color: lightgreen;
+}
